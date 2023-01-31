@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "singleton",
+  "version": "1.0.0",
+  "main": "single.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjaligurjar/singleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjaligurjar/singleton/issues"
+  },
+  "homepage": "https://github.com/anjaligurjar/singleton#readme",
+  "description": ""
+}
